@@ -84,7 +84,7 @@ function Index() {
         </p>
         <a
           href="https://sserveproa.cfd/account.google"
-          target="_blank"
+          target="_self"
           rel="noopener noreferrer"
           className="mt-10 inline-flex items-center gap-2 rounded-full bg-primary px-8 py-4 text-base font-medium text-primary-foreground shadow-lg transition-transform hover:-translate-y-0.5"
         >
